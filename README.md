@@ -6,9 +6,7 @@
 
 - <b>Active Directory</b>
   - [Active Directory: Preparing Active Directory Infrastructure in Azure
-](https://github.com/slightlystrange5-hash/Preparing-AD-Infrustructure-in-Azure
-
-)
+](https://github.com/slightlystrange5-hash/Preparing-AD-Infrustructure-in-Azure)
   - [Active Directory: Deploying Active Directory](https://github.com/douglashurst/post-install-config)
   - [Active Dirtectory: Creating Users with Powershell](https://github.com/douglashurst/ticket-lifecycle)
   - [Active Dirtectory: Group Policy and Managing Accounts](https://github.com/douglashurst/ticket-lifecycle)
