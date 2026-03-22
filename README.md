@@ -4,8 +4,10 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/douglashrust/osticket-prereqs)
+- <b>Active Directory</b>
+  - [Active Directory: Preparing-Active-Directory-Infrastructure-in-Azure
+](https://github.com/douglashrust/Preparing-Active-Directory-Infrastructure-in-Azure
+)
   - [osTicket: Post-Installation Configuration](https://github.com/douglashurst/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/douglashurst/ticket-lifecycle)
 - <b>Microsoft Azure</b>
