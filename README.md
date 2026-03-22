@@ -6,7 +6,7 @@
 
 - <b>Active Directory</b>
   - [Active Directory: Preparing-Active-Directory-Infrastructure-in-Azure
-](https://github.com/douglashrust/Preparing-Active-Directory-Infrastructure-in-Azure
+](https://github.com/slightlystrange5-hash/Preparing-Active-Directory-Infrastructure-in-Azure
 )
   - [osTicket: Post-Installation Configuration](https://github.com/douglashurst/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/douglashurst/ticket-lifecycle)
