@@ -5,11 +5,12 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Active Directory</b>
-  - [Active Directory: Preparing-Active-Directory-Infrastructure-in-Azure
+  - [Active Directory: Preparing Active Directory Infrastructure in Azure
 ](https://github.com/slightlystrange5-hash/Preparing-Active-Directory-Infrastructure-in-Azure
 )
-  - [osTicket: Post-Installation Configuration](https://github.com/douglashurst/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/douglashurst/ticket-lifecycle)
+  - [Active Directory: Deploying Active Directory](https://github.com/douglashurst/post-install-config)
+  - [Active Dirtectory: Creating Users with Powershell](https://github.com/douglashurst/ticket-lifecycle)
+  - [Active Dirtectory: Group Policy and Managing Accounts](https://github.com/douglashurst/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/douglashurst/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/douglashurst/azure-network-protocols)
