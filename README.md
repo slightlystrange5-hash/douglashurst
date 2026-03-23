@@ -5,8 +5,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Active Directory</b>
-  - [Azure Active Directory: Domain Controller & Client Setup
-](https://github.com/slightlystrange5-hash/Azure Active Directory: Domain Controller & Client Setup)
+  - [Azure Active Directory: Domain Controller & Client Setup](https://github.com/slightlystrange5-hash/Azure-Active-Directory-Domain-Controller-Client-Setup)
   - [Active Directory: Deploying Active Directory](https://github.com/douglashurst/post-install-config)
   - [Active Dirtectory: Creating Users with Powershell](https://github.com/douglashurst/ticket-lifecycle)
   - [Active Dirtectory: Group Policy and Managing Accounts](https://github.com/douglashurst/ticket-lifecycle)
