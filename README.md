@@ -7,7 +7,6 @@
 - <b>Active Directory</b>
   - [Azure Active Directory: Domain Controller & Client Setup](https://github.com/slightlystrange5-hash/Azure-Active-Directory-Domain-Controller-Client-Setup)
   - [Active Directory: Deploying Active Directory](https://github.com/slightlystrange5-hash/Active-Directory-Deploying-Active-Directory)
-  - [Active Dirtectory: Creating Users with Powershell](https://github.com/douglashurst/ticket-lifecycle)
   - [Active Dirtectory: Group Policy and Managing Accounts](https://github.com/douglashurst/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/douglashurst/configure-ad)
