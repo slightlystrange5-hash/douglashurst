@@ -8,9 +8,6 @@
   - [Azure Active Directory: Domain Controller & Client Setup](https://github.com/slightlystrange5-hash/Azure-Active-Directory-Domain-Controller-Client-Setup)
   - [Active Directory: Deploying Active Directory](https://github.com/slightlystrange5-hash/Active-Directory-Deploying-Active-Directory)
   - [Active Dirtectory: Group Policy and Managing Accounts](https://github.com/slightlystrange5-hash/Enabling-and-Unlocking-Accounts-and-Restting-Passwords)
-- <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/douglashurst/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/douglashurst/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
 
