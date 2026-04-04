@@ -1,6 +1,6 @@
 # douglashurst
 
-<h1>Hi, I'm Douglas, an <a href="https://linkedin.com/in/Josh">IT Professional</a>!</h1>
+<h1>Hi, I'm Douglas, an <a href="https://linkedin.com/in/Josh">IT Support Specialist – Certified</a>!</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
